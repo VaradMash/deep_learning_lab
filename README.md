@@ -8,8 +8,8 @@ The Python environment details are specified in the requirements.txt file
 3. Anaconda version : 4.10.3
 4. Operating System : Linux (Ubuntu 22.04, Jammy Jellyfish)
 5. For GPU Setup:
-  1. CUDA 11.5
-  2. cuDNN 8.6.0
+  a. CUDA 11.5
+  b. cuDNN 8.6.0
 
 # Environment installation instructions
 ### Execute the following commands on the terminal
